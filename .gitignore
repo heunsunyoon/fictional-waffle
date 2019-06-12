@@ -1,0 +1,11 @@
+# custom
+hidden/
+confidential/
+*.c
+*.cpp
+*.cs
+
+
+__pycache__/
+.ipynb_checkpoints
+*.py.class
